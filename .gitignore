@@ -1,0 +1,5 @@
+.idea
+node_modules
+Wdio_Test.iml
+trueautomation.json
+package-lock.json
